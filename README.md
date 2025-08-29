@@ -31,11 +31,10 @@ Em vez de usar a notação matriz[i][j], acessamos elementos com:
 ```
 
 # Cálculos e análises diretamente na memória
-
+	- Inverter Notas
+ 	- Somatório de horas trabalhadas
+  	- Manipulação de matrizes
 	- Somatória de pontos por jogador
-
 	- Determinar jogador vencedor
-
 	- Contagem de elementos pares e ímpares
-
 	- Tudo isso foi feito sem copiar os dados, apenas manipulando os ponteiros.
