@@ -22,7 +22,7 @@ printf("%d", *p); // acessa o valor de x através do ponteiro (imprime 10)
 # Como os ponteiros foram utilizados nas atividades
 ## Passagem de argumentos por referência
 	Funções que precisavam alterar dados fora de seu escopo receberam endereços de memória como parâmetros.
-	Exemplo: funções que invertiam arrays ou calculavam totais de pontuação.
+	Exemplo: funções que invertiam vetores
 
 ## Acesso a matrizes 2D usando aritmética de ponteiros
 Em vez de usar a notação matriz[i][j], acessamos elementos com:
